@@ -1,4 +1,4 @@
-# 📅 Anime Calendar Automation
+# 📅 Automatización Anime Calendar
 
 ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/Akiro9982/anime-calendar/update.yml?label=workflow&logo=github)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Active-brightgreen?logo=github)
