@@ -29,4 +29,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./   # publica la raíz del repo
+          publish_dir: ./      # publica la raíz del repo
+          force_orphan: true   # fuerza a recrear la rama limpia
